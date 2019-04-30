@@ -9,6 +9,6 @@ What is this repository about?
 - This repository consists of my UVM learning material and codes.
 
 What are the sources of material and codes?
-- Verification Academy
-- Doulus 
+- Verification Academy (https://verificationacademy.com/)
+- Doulus (https://www.doulos.com/)
 
